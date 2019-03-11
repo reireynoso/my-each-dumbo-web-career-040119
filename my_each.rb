@@ -10,4 +10,4 @@ def my_each(array) # put argument(s) here
   array
 end
 
-my_each() { puts i }
+my_each(collection) { puts i }
