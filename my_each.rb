@@ -10,6 +10,4 @@ def my_each(array) # put argument(s) here
   array
 end
 
-my_each(array) {
-  puts i
-}
+my_each(array) { puts i }
